@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,15 +9,13 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #FFFFFF;
-            color: #000000;
+            background-color: #012169;
+            color: #FFFFFF;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             flex-direction: column;
-            background: linear-gradient(to bottom, #C8102E 0%, #012169 100%);
-            color: #FFFFFF;
         }
         .container {
             text-align: center;
@@ -25,10 +23,12 @@
         h1 {
             font-size: 3em;
             margin: 0;
+            color: #FFFFFF;
         }
         h2 {
             font-size: 1.5em;
             margin: 10px 0 0 0;
+            color: #C8102E;
         }
     </style>
 </head>
