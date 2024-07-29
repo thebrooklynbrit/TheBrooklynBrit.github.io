@@ -9,7 +9,6 @@
             background-color: #012169;
             color: #FFFFFF;
             font-family: Arial, sans-serif;
-            text-align: center;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -27,9 +26,16 @@
             color: #C8102E;
             margin: 0;
         }
+        .logo {
+            width: 300px;
+            height: 300px;
+            background: url('/mnt/data/PHOTO-2024-07-28-22-29-08.jpg') no-repeat center center;
+            background-size: contain;
+        }
     </style>
 </head>
 <body>
+    <div class="logo"></div>
     <h1>The Brooklyn Brit: Where Cultures Converge</h1>
     <p>Coming Soon</p>
 </body>
