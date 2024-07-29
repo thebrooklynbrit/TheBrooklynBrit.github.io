@@ -6,38 +6,31 @@
     <title>The Brooklyn Brit</title>
     <style>
         body {
-            font-family: 'Garamond', serif;
-            margin: 0;
-            padding: 0;
             background-color: #012169;
             color: #FFFFFF;
+            font-family: Arial, sans-serif;
+            text-align: center;
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            flex-direction: column;
-        }
-        .container {
-            text-align: center;
+            margin: 0;
         }
         h1 {
             font-size: 3em;
-            margin: 0;
             color: #FFFFFF;
+            margin: 0;
         }
-        h2 {
+        p {
             font-size: 1.5em;
-            margin: 10px 0 0 0;
             color: #C8102E;
+            margin: 0;
         }
     </style>
 </head>
 <body>
-
-<div class="container">
     <h1>The Brooklyn Brit: Where Cultures Converge</h1>
-    <h2>Coming Soon</h2>
-</div>
-
+    <p>Coming Soon</p>
 </body>
 </html>
