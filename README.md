@@ -29,7 +29,7 @@
         .logo {
             width: 300px;
             height: 300px;
-            background: url('/mnt/data/PHOTO-2024-07-28-22-29-08.jpg') no-repeat center center;
+            background: url('PHOTO-2024-07-28-22-29-08.jpg') no-repeat center center;
             background-size: contain;
         }
     </style>
